@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from '../Header/Header';
-import Footer from '../Footer/Footer';
+import Header from '../Assets/Header/Header';
+import Footer from '../Assets/Footer/Footer';
 
 // @ts-ignore
 const Layout = ({children}) => {
