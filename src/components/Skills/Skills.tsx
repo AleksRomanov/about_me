@@ -35,7 +35,7 @@ function Skills() {
                             },
                         }}>
                     <SwiperSlide className={'swiper-item'}>
-                        <h1>ТЕХНОЛОГИИ</h1>
+                        <h1>ТЕХНОЛОГИИ!!!</h1>
                         <div className={'swiper-item-image__content'}>
                             <p>TypeScript</p>
                             <p>TailwindCss</p>
